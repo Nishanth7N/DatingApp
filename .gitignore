@@ -453,3 +453,7 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 API/appsettings.json
+package-lock.json
+package.json
+API/Startup.cs
+API/Controllers/-- SQLite.sql
